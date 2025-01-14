@@ -1,5 +1,5 @@
-# ANALISIS DE VENTAS DE EQUIPOS TELEFONICOS!
+# ANALISIS DE DATOS
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Mi nombre es Sebastian Alejandro Jimenez Rosario estudiante de la PUCP. En dicho repositorio publicaré algunso trabajos sobre análisis de datos
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Analisis de ventas de equipos telefónicos
